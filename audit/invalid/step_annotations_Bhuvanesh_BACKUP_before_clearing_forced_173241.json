@@ -1,0 +1,115 @@
+{
+ "annotator": "Bhuvanesh",
+ "videos": {
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 3380,
+   "forced": true
+  },
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2284,
+   "forced": true
+  },
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2182,
+   "forced": true
+  },
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2523,
+   "forced": true
+  },
+  "Videos/Anantasana/Anantasana Wrong Steps/Anantasana Wrong Step Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 3189,
+   "forced": true
+  },
+  "Videos/Anantasana/Anantasana Wrong Steps/Anantasana Wrong Step Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2515,
+   "forced": true
+  },
+  "Videos/Anantasana/Anantasana Wrong Steps/Anantasana Wrong Step Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2662,
+   "forced": true
+  },
+  "Videos/Anantasana/Anantasana Wrong Steps/Anantasana Wrong Step Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2166,
+   "forced": true
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 1-converted.mp4": {
+   "marks": {
+    "0": 0,
+    "688": 2,
+    "1006": 3,
+    "1344": 0,
+    "1745": 4,
+    "2080": 5,
+    "2470": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2686,
+   "forced": true
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 2-converted.mp4": {
+   "marks": {
+    "0": 0,
+    "371": 2,
+    "525": 3,
+    "767": 0,
+    "1240": 4,
+    "1454": 5,
+    "1814": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2078,
+   "forced": true
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 3-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": false,
+   "fps": 30.01,
+   "n_frames": 2311
+  }
+ }
+}

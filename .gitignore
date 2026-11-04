@@ -1,0 +1,15 @@
+# Third-party dataset and backbone weights: re-downloaded and SHA-256-verified by tools/fetch_data.py (pins in poseguard/config.py)
+data/raw/
+data/*.zip
+weights/*.pt
+
+# Local build output / environments
+release/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Plumbing smoke runs (never results) and interrupted atomic saves
+phase4/smoke/
+*.tmp.npz

@@ -1,0 +1,14 @@
+raw 11344 | ambiguous (cross-asana or Right/Wrong-conflicting): 1822 | redundant same-label copies dropped: 1046 | usable: 8476
+label                 raw_Right  raw_Wrong  raw_All  usable_Right  usable_Wrong  usable_All
+asana                                                                                      
+Anantasana                  640        535     1175         283.0         294.0         577
+Ardhakati Chakrasana        507        420      927         507.0         420.0         927
+Bhujangasana                684        479     1163         435.0         325.0         760
+Kati Chakrasana             320        225      545         320.0         225.0         545
+Marjariasana                845        748     1593         845.0         748.0        1593
+Parvatasana                1375       1402     2777        1375.0        1402.0        2777
+Sarvangasana                347        359      706          94.0           NaN          94
+Tadasana                    854        718     1572         516.0         413.0         929
+Vajrasana                    65         86      151          65.0          86.0         151
+Viparita Karani             376        359      735         123.0           NaN         123
+All                        6013       5331    11344        4563.0        3913.0        8476

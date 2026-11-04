@@ -1,0 +1,41 @@
+overlay sheets written: 10
+tile                  still Right  still Wrong  video R ang1  video R ang2  video R ang3  video R ang4
+asana                                                                                                 
+Anantasana                      0            0             6            13            13            16
+Ardhakati Chakrasana           11           12            16            15            14            13
+Bhujangasana                    0           11            16            15            11            14
+Kati Chakrasana                11           16            14            16            15            12
+Marjariasana                   11           13            16            15            10            15
+Parvatasana                    13            0            17            13            10            13
+Sarvangasana                   12           12            15            15            16            14
+Tadasana                       11           12            17            13            14            13
+Vajrasana                      11            8            17            15            12            13
+Viparita Karani                 0           12            12            14            13            14
+
+VIDEO detection: 3196 / 3200 frames = 0.9988
+
+VIDEO angle coverage at tau=0.5 (mean over the 8 clips of each asana):
+angle                 left_knee  right_knee  left_hip  right_hip  left_elbow  right_elbow  left_shoulder  right_shoulder  trunk_tilt  shoulder_line_tilt
+asana                                                                                                                                                   
+Anantasana                 0.86        0.82      0.81       0.80        0.67         0.70           0.71            0.76        0.85                0.87
+Ardhakati Chakrasana       1.00        1.00      1.00       1.00        0.76         0.84           0.81            0.85        1.00                1.00
+Bhujangasana               0.97        0.97      0.99       0.99        0.87         0.72           0.96            0.92        1.00                1.00
+Kati Chakrasana            1.00        1.00      1.00       1.00        0.70         0.71           0.78            0.81        1.00                1.00
+Marjariasana               0.83        0.89      0.99       0.99        0.77         0.77           0.83            0.81        1.00                1.00
+Parvatasana                0.74        0.76      0.77       0.77        0.76         0.74           0.79            0.79        1.00                1.00
+Sarvangasana               0.93        0.93      0.98       0.97        0.64         0.73           0.76            0.90        0.99                0.99
+Tadasana                   1.00        1.00      1.00       1.00        0.74         0.72           0.78            0.74        1.00                1.00
+Vajrasana                  0.73        0.80      0.82       0.82        0.77         0.80           0.82            0.88        1.00                1.00
+Viparita Karani            0.90        0.90      0.98       0.98        0.70         0.78           0.77            0.84        0.99                0.99
+
+tau sensitivity: mean coverage over all clips, by angle
+angle  left_knee  right_knee  left_hip  right_hip  left_elbow  right_elbow  left_shoulder  right_shoulder  trunk_tilt  shoulder_line_tilt
+tau                                                                                                                                      
+0.3         0.94        0.94      0.96       0.96        0.81         0.80           0.86            0.89        0.99                0.99
+0.4         0.92        0.92      0.95       0.94        0.77         0.78           0.83            0.86        0.99                0.99
+0.5         0.90        0.91      0.93       0.93        0.74         0.75           0.80            0.83        0.98                0.98
+0.6         0.87        0.87      0.92       0.92        0.71         0.72           0.78            0.80        0.98                0.98
+0.7         0.84        0.84      0.90       0.89        0.68         0.69           0.76            0.77        0.97                0.97
+
+CPU wrapper time: 754 ms/frame at imgsz 640 (CPU only; NOT an RTX 5080 measurement)
+

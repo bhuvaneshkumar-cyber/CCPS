@@ -1,0 +1,35 @@
+files without camera timestamp: 0
+intra-folder consecutive gaps (s): median=1.0 frac<=1s=0.849 frac<=2s=0.932 frac<=5s=0.975
+                                           min                 max
+asana                label                                        
+Anantasana           Right 2023-03-17 07:27:35 2023-03-17 08:00:16
+                     Wrong 2023-03-17 07:34:41 2023-03-17 08:03:22
+Ardhakati Chakrasana Right 2023-03-11 08:26:10 2023-03-11 09:23:33
+                     Wrong 2023-03-11 08:42:11 2023-03-11 09:27:32
+Bhujangasana         Right 2023-03-12 11:12:28 2023-03-12 11:17:46
+                     Wrong 2023-03-12 11:14:42 2023-03-12 11:19:36
+Kati Chakrasana      Right 2023-03-10 12:00:26 2023-03-10 12:32:29
+                     Wrong 2023-03-10 12:04:08 2023-03-10 12:34:42
+Marjariasana         Right 2023-03-11 15:15:08 2023-03-11 16:06:54
+                     Wrong 2023-03-11 15:25:13 2023-03-11 16:11:54
+Parvatasana          Right 2023-03-10 14:42:34 2023-03-10 15:51:14
+                     Wrong 2023-03-10 15:03:23 2023-03-10 15:56:24
+Sarvangasana         Right 2023-03-17 07:27:35 2023-03-17 07:49:37
+                     Wrong 2023-03-17 07:34:41 2023-03-17 07:47:04
+Tadasana             Right 2023-03-12 10:40:28 2023-03-12 11:01:52
+                     Wrong 2023-03-12 10:46:15 2023-03-12 11:06:00
+Vajrasana            Right 2023-03-09 09:40:13 2023-03-09 10:07:25
+                     Wrong 2023-03-09 09:54:48 2023-03-09 10:12:54
+Viparita Karani      Right 2023-03-17 07:27:35 2023-03-17 07:45:02
+                     Wrong 2023-03-17 07:34:41 2023-03-17 07:47:04
+Anantasana             right/wrong time ranges OVERLAP | dates: ['20230317']
+Ardhakati Chakrasana   right/wrong time ranges OVERLAP | dates: ['20230311']
+Bhujangasana           right/wrong time ranges OVERLAP | dates: ['20230312']
+Kati Chakrasana        right/wrong time ranges OVERLAP | dates: ['20230310']
+Marjariasana           right/wrong time ranges OVERLAP | dates: ['20230311']
+Parvatasana            right/wrong time ranges OVERLAP | dates: ['20230310']
+Sarvangasana           right/wrong time ranges OVERLAP | dates: ['20230317']
+Tadasana               right/wrong time ranges OVERLAP | dates: ['20230312']
+Vajrasana              right/wrong time ranges OVERLAP | dates: ['20230309']
+Viparita Karani        right/wrong time ranges OVERLAP | dates: ['20230317']
+files with (n) duplicate-name suffix: 3186

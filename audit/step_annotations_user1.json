@@ -1,0 +1,30 @@
+{
+ "annotator": "user1",
+ "videos": {
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 1-converted.mp4": {
+   "marks": {
+    "0": 0,
+    "100": 1,
+    "230": 0,
+    "1089": 2,
+    "1391": 0,
+    "2697": 3,
+    "3014": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 3380,
+   "forced": true
+  },
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 2-converted.mp4": {
+   "marks": {
+    "0": 0,
+    "101": 1,
+    "250": 0
+   },
+   "done": false,
+   "fps": 30.01,
+   "n_frames": 2284
+  }
+ }
+}

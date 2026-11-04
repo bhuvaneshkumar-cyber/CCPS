@@ -1,0 +1,29 @@
+method: geo_v1_zero_supervision (v2 not run: stopped at its dev gate)   second look: False
+video frame table: 3906 held+trimmed sampled frames | Right 2182, Wrong 1724 | holds 92
+
+=== V2 (same-view, cross-fitted) === macro balanced accuracy over 3 asanas = 0.664  hold-level bootstrap 95% CI [0.565, 0.749] | abstain 0.060
+                      n_scored  n_right  n_wrong  holds  flag_right  flag_wrong  bal_acc  abstain
+Tadasana                1254.0    359.0    895.0   27.0       0.304       0.907    0.802    0.061
+Ardhakati Chakrasana     360.0    121.0    239.0   18.0       0.496       0.745    0.624    0.176
+Kati Chakrasana          974.0    392.0    582.0   28.0       0.543       0.677    0.567    0.005
+
+=== V3 (cross-view) === macro balanced accuracy over 3 asanas = 0.472  hold-level bootstrap 95% CI [0.391, 0.562] | abstain 0.000
+                      n_scored  n_right  n_wrong  holds  flag_right  flag_wrong  bal_acc  abstain
+Tadasana                1632.0    737.0    895.0   31.0       0.730       0.560    0.415      0.0
+Ardhakati Chakrasana     779.0    532.0    247.0   32.0       0.825       0.789    0.482      0.0
+Kati Chakrasana         1495.0    913.0    582.0   29.0       0.700       0.741    0.520      0.0
+
+=== V1 acceptance test (still K=1.65 vs video, Right): 89 cells; |median diff| > 5 deg in 43 (0.48); median |diff| 4.5 deg; median band overlap 0.38
+angle
+left_elbow            8.4
+left_hip              1.5
+left_knee             3.0
+left_shoulder         8.3
+right_elbow           4.6
+right_hip             2.8
+right_knee            3.7
+right_shoulder        9.5
+shoulder_line_tilt    2.7
+trunk_tilt            1.7
+
+saved phase3/video_v1_acceptance_cells.csv, video_rows_V2.csv, video_rows_V3.csv

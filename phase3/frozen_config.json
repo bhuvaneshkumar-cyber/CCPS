@@ -1,0 +1,18 @@
+{
+ "p": 15.0,
+ "delta": 5.0,
+ "K": 1.65,
+ "tau": 0.5,
+ "min_n": 40,
+ "min_blocks": 3,
+ "min_judged": 3,
+ "dev_cv_bal_acc": 0.5954143707176341,
+ "dev_cv_macro_f1": 0.660215867873867,
+ "first_run_f1_selected": {
+  "p": 5.0,
+  "delta": 5.0
+ },
+ "protocol_sha256": "1ef56266f8efa829c8067304478bae4f01198c37552c45c2b5b42b36fefdc414",
+ "phase3_py_sha256": "1e20a3146ec66542ab010c1f4e5db196b15525d36c16c920d620c9c663b58417",
+ "frozen_at": "2026-09-20 17:54:27"
+}

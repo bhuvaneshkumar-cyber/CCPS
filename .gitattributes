@@ -1,0 +1,2 @@
+# Never let git rewrite line endings: frozen protocols, configs and caches must stay byte-identical (MANIFEST.sha256 checks every file).
+* -text

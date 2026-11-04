@@ -1,0 +1,757 @@
+[
+ {
+  "path": ".gitattributes",
+  "sha256": "b1cbc1e35acd29f09217c356c1c79a2e402228b1bcb0c2fe47ca6deb4ea7e403",
+  "bytes": 145
+ },
+ {
+  "path": ".gitignore",
+  "sha256": "76a196c0364ac689b71ac053e3d664c3047a5308621c356380be61dfcdcbf882",
+  "bytes": 336
+ },
+ {
+  "path": "audit/analyze_kpts.py",
+  "sha256": "9711c77ee97ce2c384e2759bb7afa2caa8527ba083d04b05d37d88eb9dee88f7",
+  "bytes": 2984
+ },
+ {
+  "path": "audit/analyze_kpts_report.txt",
+  "sha256": "03977d6fd63e4c31b19cfa904d82e255fbbad7239b076469854014d14a607ee6",
+  "bytes": 4247
+ },
+ {
+  "path": "audit/ardhakati_step1_check.jpg",
+  "sha256": "221d9ab3a55bd173708ae5bb05f2759a2f3ecd1f642b8e5e9ea3df14a8918993",
+  "bytes": 359885
+ },
+ {
+  "path": "audit/aspect_check.py",
+  "sha256": "07f34d928d32739282c381a6e6419dd8333d3606d256ee2a1e3f8eb18c82fadc",
+  "bytes": 2146
+ },
+ {
+  "path": "audit/aspect_check_report.txt",
+  "sha256": "bf2f521841ecac2836f7f673d1778578b72e504f9a5d116c88650ff26c4f38ad",
+  "bytes": 375
+ },
+ {
+  "path": "audit/dedupe.py",
+  "sha256": "011732a0b2f78fb2fe76a309e8be646ae05d2d5f486ff3ad2f965bb007ae24ad",
+  "bytes": 1432
+ },
+ {
+  "path": "audit/dedupe_report.txt",
+  "sha256": "8155bdd2a4118b4be61fcd21093d0270fe589bd85de865d97186153479f78af7",
+  "bytes": 1338
+ },
+ {
+  "path": "audit/distortion.py",
+  "sha256": "bdb16ce733cf7ed1310388deccf90302c55c020522c2b4ab65cb402747e1e369",
+  "bytes": 8158
+ },
+ {
+  "path": "audit/distortion_paired.py",
+  "sha256": "42aba8821efcdc8a1e5e5f40ae73e072b87d5e0b5c67384b1239185acabb2244",
+  "bytes": 2176
+ },
+ {
+  "path": "audit/distortion_paired_report.txt",
+  "sha256": "6db6e02a52161baf87d0d911afb6cb5290afe23f72baa2f959cdb18033215a68",
+  "bytes": 815
+ },
+ {
+  "path": "audit/distortion_pseudo.log",
+  "sha256": "8f7611b17888e804607d461c29ab59e57030d1fca8608355c6a75f7451418ba7",
+  "bytes": 957
+ },
+ {
+  "path": "audit/distortion_pseudo.py",
+  "sha256": "1129c5dce9a9b82ff653f052dada81b731d10f833515fe7cbe3a09fccfce0009",
+  "bytes": 2178
+ },
+ {
+  "path": "audit/distortion_report.txt",
+  "sha256": "39953b57cd7761e48c6724750369888abc556e1d08e54b85ac0c133ce682fc87",
+  "bytes": 2284
+ },
+ {
+  "path": "audit/duplicates.py",
+  "sha256": "f8a445309dfc8d96a561ec7d97838b6c5ac8cbd46a425a77ae0fe45e8f0cbb38",
+  "bytes": 1322
+ },
+ {
+  "path": "audit/duplicates_report.txt",
+  "sha256": "82fa1fbc6b3731bbcdf82e91c38644f03449d7431a2e0002f1fd73037e525405",
+  "bytes": 2885
+ },
+ {
+  "path": "audit/extract_320.log",
+  "sha256": "461ecba63f38602da5df2bf2b449624e354d95a7e97286df0bba78b7c011f94a",
+  "bytes": 308
+ },
+ {
+  "path": "audit/extract_640.log",
+  "sha256": "29f6268d238c4667cfa40e7e118eb518ff6b971a09f29337a3701e1eb267ed73",
+  "bytes": 636
+ },
+ {
+  "path": "audit/extract_kpts.py",
+  "sha256": "2ee992b88ce8a5c1746c715653bc6235a2be0280b9db620eb4abf2ed9145e036",
+  "bytes": 1738
+ },
+ {
+  "path": "audit/extract_video.log",
+  "sha256": "58922e3cdb947a56567d2a75626d97ca5a48535eb3dad659d2c73a019b07feca",
+  "bytes": 2058
+ },
+ {
+  "path": "audit/extract_video_kpts.py",
+  "sha256": "3a56527d17c80749f858c874e752669d7f8953378b594f1dfc7732c5176e98fb",
+  "bytes": 1469
+ },
+ {
+  "path": "audit/image_vs_video.py",
+  "sha256": "67f18ee4359e47229674ffff61624153ce010b406cf2bb5b2ec740dc8a8a983f",
+  "bytes": 1476
+ },
+ {
+  "path": "audit/image_vs_video_report.txt",
+  "sha256": "5631ccccc1e82e9112985690e601f024684a06e64e0dd34e605ee07ac8c12d89",
+  "bytes": 198
+ },
+ {
+  "path": "audit/invalid/step_annotations_Bhuvanesh_BACKUP_before_clearing_forced_173241.json",
+  "sha256": "e398361ebd53723bfef822a20de60afb870c39aaf32877f0641cf369ccb35e49",
+  "bytes": 2618
+ },
+ {
+  "path": "audit/invalid/step_annotations_YOURNAME__single_mark_at_frame0_NOT_VALID.json",
+  "sha256": "8882d0fc6997c8f1d3bbbcc2b09326091c4a4ac4d683a11acfa7103a4dfeb015",
+  "bytes": 15892
+ },
+ {
+  "path": "audit/invalid/step_segments_YOURNAME.csv",
+  "sha256": "9ec16f2f8b9ecaf8c9f204d310cbe35a26003f84734261a4d30de69c793f8766",
+  "bytes": 11551
+ },
+ {
+  "path": "audit/inventory.py",
+  "sha256": "bd489e0f54a1ccc50d813bbefb41fb41981050d63c08c3357198710e82c82327",
+  "bytes": 2663
+ },
+ {
+  "path": "audit/inventory_images.csv",
+  "sha256": "7cf161783e220690ef92963493a9342c30630fb38d98ff1bd73f1d9983d2a509",
+  "bytes": 2276683
+ },
+ {
+  "path": "audit/inventory_report.txt",
+  "sha256": "e9a9e1bfb2bf2c26006b43d829e33536f5e2d60da3e5d81158d827432469389b",
+  "bytes": 19781
+ },
+ {
+  "path": "audit/inventory_videos.csv",
+  "sha256": "cfe832524205b251e21faf148adf46138ed6c5ad26e6887424506efbb90817bd",
+  "bytes": 11283
+ },
+ {
+  "path": "audit/inverted_video_check.py",
+  "sha256": "5c2e19fa76d54859af9c4627aa2e28d52dc50c2fa881a0570f26fe6988f2a17a",
+  "bytes": 3042
+ },
+ {
+  "path": "audit/inverted_video_overlay.jpg",
+  "sha256": "3c2c04ad607dd26a9035c6a0a31c892ed4ec0d2a3b469868f8fb10db95b9044e",
+  "bytes": 185925
+ },
+ {
+  "path": "audit/inverted_video_report.txt",
+  "sha256": "a751e0f384cf9b9f29befbcd18e810adbf27266e140158e7f19241445833052b",
+  "bytes": 1178
+ },
+ {
+  "path": "audit/kpt_viz/Anantasana.jpg",
+  "sha256": "f509691265910e9f545dbb9fbd9bb57a9b73934e3baa2b16a13116c3d70322fc",
+  "bytes": 212385
+ },
+ {
+  "path": "audit/kpt_viz/Ardhakati_Chakrasana.jpg",
+  "sha256": "ac8d227033a4f4475c18f97536b1682cb5ea4ed269c74ea9c59d92ab7968348e",
+  "bytes": 322472
+ },
+ {
+  "path": "audit/kpt_viz/Bhujangasana.jpg",
+  "sha256": "5332c06376a48014ac84f0989f6713910eff0f26a397f4daddd72834522d238b",
+  "bytes": 347240
+ },
+ {
+  "path": "audit/kpt_viz/Kati_Chakrasana.jpg",
+  "sha256": "755b300b51a863ce3ee9c15fa91116efbd6face7099e2e93af6e0167532def0c",
+  "bytes": 150201
+ },
+ {
+  "path": "audit/kpt_viz/Marjariasana.jpg",
+  "sha256": "59721834b9964103495d1f5cbcffd89d23bdaef59c5873f29119b4228b9f9a08",
+  "bytes": 228567
+ },
+ {
+  "path": "audit/kpt_viz/Parvatasana.jpg",
+  "sha256": "8b9ca12ff5bc580f64d23e979bf8898b318a63ec749d07ac10c9df61c7303077",
+  "bytes": 190702
+ },
+ {
+  "path": "audit/kpt_viz/Sarvangasana.jpg",
+  "sha256": "010bb7cde2ff232a16105af0e0281d7f3a6bb5144166ca0ff1b21bbd86241386",
+  "bytes": 68646
+ },
+ {
+  "path": "audit/kpt_viz/Tadasana.jpg",
+  "sha256": "e532472863e87b9f64bbef3f4854c17f3425c1e3c1160e3a65eaaad8a2a3deaa",
+  "bytes": 350786
+ },
+ {
+  "path": "audit/kpt_viz/Vajrasana.jpg",
+  "sha256": "2289f210d1a5c01f982aaca3aa936e6411eaaeca49e043566c9429c687b469ad",
+  "bytes": 272949
+ },
+ {
+  "path": "audit/kpt_viz/Viparita_Karani.jpg",
+  "sha256": "2fa8a566c2f7e6922de924bc93fd67dffcc1d998c6f62b67bcce5593757dc143",
+  "bytes": 99195
+ },
+ {
+  "path": "audit/kpts_320_all.npz",
+  "sha256": "7f36650a87acb1c234391ea43f35cf3add2fc145eed0efb82674bfc9de4b8b54",
+  "bytes": 3683671
+ },
+ {
+  "path": "audit/kpts_640_sample.npz",
+  "sha256": "8b8a2e15964d0ae3a570a44d6ac7a5f93a27662c307dc96940ef001b8ce559c7",
+  "bytes": 131843
+ },
+ {
+  "path": "audit/kpts_pseudo.npz",
+  "sha256": "d33279d4472e8d53bb086ea4a149285fe751ebb84a305ebbfd9dddb05d75dce8",
+  "bytes": 475894
+ },
+ {
+  "path": "audit/kpts_video_640.npz",
+  "sha256": "ad0e2cf47564a64af89ed4d3ef6414493d38f355b005bd666da677c441a090b1",
+  "bytes": 674091
+ },
+ {
+  "path": "audit/lr_tadasana_wrong_ang3.jpg",
+  "sha256": "dc09f8e3e0a87e1c251b3a9cf8300a6629cfb3ab471d74d14c93294639202614",
+  "bytes": 245445
+ },
+ {
+  "path": "audit/manifest_dedup.csv",
+  "sha256": "f6e67321d63ad8b980ef12ed079ffdac6a372d79d4b718467982468c37f5e844",
+  "bytes": 2529594
+ },
+ {
+  "path": "audit/PHASE0_REPORT.md",
+  "sha256": "81848716283dc29f2d0fefe5fdf019635f9c70230918e0fdd96893f75b3f2cb1",
+  "bytes": 36875
+ },
+ {
+  "path": "audit/sample_montage.jpg",
+  "sha256": "352bb98e7b497844adbc6792297c1ca7e6a716fec4f78aaecf3adfa83d588a4d",
+  "bytes": 904921
+ },
+ {
+  "path": "audit/step_annotations_Bhuvanesh.json",
+  "sha256": "3c246379b56841b9c490dab63977d6462992561c7b9eb648d82e137c9fb89549",
+  "bytes": 8049
+ },
+ {
+  "path": "audit/step_annotations_teammate.json",
+  "sha256": "eb0726730b5603132ee9bea7b46fd694865a9c4cdfaa8bc09bdbb08ce13396e1",
+  "bytes": 380
+ },
+ {
+  "path": "audit/step_annotations_user1.json",
+  "sha256": "0362308dc49f67f10430688f1c389d29b6627f075cdd39d96ab5210310b3774c",
+  "bytes": 570
+ },
+ {
+  "path": "audit/step_annotations_YOURNAME.json",
+  "sha256": "8882d0fc6997c8f1d3bbbcc2b09326091c4a4ac4d683a11acfa7103a4dfeb015",
+  "bytes": 15892
+ },
+ {
+  "path": "audit/step_duplicates.py",
+  "sha256": "4f28b5579b30ff335aa7eb40bd0e8ed8c912904d199720e13dfc297e51a7c12d",
+  "bytes": 1490
+ },
+ {
+  "path": "audit/step_duplicates_report.txt",
+  "sha256": "78c088c6b087cac0bf07b4c20e6f1a336cce76ae0077536069b8b0e52efb6b7b",
+  "bytes": 1041
+ },
+ {
+  "path": "audit/step_queue_phase3.txt",
+  "sha256": "947b339586ca19b6aacb55926556a33d8ee7ae0cdd13c905399e8ea44e7821db",
+  "bytes": 2600
+ },
+ {
+  "path": "audit/step_segments_Bhuvanesh.csv",
+  "sha256": "3f2d66888a47822957152d58c8e2028477d51db7d297f47441dca5a5eae8f2eb",
+  "bytes": 30279
+ },
+ {
+  "path": "audit/timestamps.py",
+  "sha256": "5b4e7d5cffc171070d7a22a2bfa2ad821af9e8152919c9065d6935e1559feb55",
+  "bytes": 1198
+ },
+ {
+  "path": "audit/timestamps_report.txt",
+  "sha256": "a3a408de9ba58e839a7ffcbeef1c346ec257d5527e250de7cce338a919d6540c",
+  "bytes": 2447
+ },
+ {
+  "path": "audit/verify_lr_report.txt",
+  "sha256": "3d01e3101bbab64be8534caa918777cf4e1e684ed696539a8ffbbbb69f0ce69b",
+  "bytes": 659
+ },
+ {
+  "path": "audit/video_angles.jpg",
+  "sha256": "67e876f204c54aed37ab459ec7625991073c4beb5d4f336c9ba6e23ee961854c",
+  "bytes": 354391
+ },
+ {
+  "path": "audit/video_views.py",
+  "sha256": "7f2e30e92356f4f6ebe3d06ba731c8375feedbdfda328378d048f8755b5a00c6",
+  "bytes": 2221
+ },
+ {
+  "path": "audit/video_views_report.txt",
+  "sha256": "6d9874ed72acf45961f90ef83328322ca7bfb4dace54c404a415d3bc57df31e6",
+  "bytes": 2275
+ },
+ {
+  "path": "audit/visualize_kpts.py",
+  "sha256": "cbf1ed7757fca5de35a257d71ac5276c07b853b148ec1fad72a69870a5294a6a",
+  "bytes": 2322
+ },
+ {
+  "path": "CLAUDE.md",
+  "sha256": "779db330e9f12a30191150f6f9eb2ecb760797762b8d01a15a476c58b5bf0ffc",
+  "bytes": 2306
+ },
+ {
+  "path": "data/files.json",
+  "sha256": "29e2fa92e7462779510ac6b8c8d4c270509462f2d77796cf69eb78cfec46a76b",
+  "bytes": 729
+ },
+ {
+  "path": "data/meta.json",
+  "sha256": "4844161d9a5b75b529811c5339a776f8148f8f5331ca7f177c1eafd6886de138",
+  "bytes": 5264
+ },
+ {
+  "path": "GPU_CHECKLIST.md",
+  "sha256": "6ceea2ffed02910855257dfabf45370c7ed2e6efad6d89eb1f7d109e3630f7fe",
+  "bytes": 6359
+ },
+ {
+  "path": "MIGRATION.md",
+  "sha256": "7db5ee86aec01566dc51f847d99ac7ba072decdb5ee99ad2bfe4f861e6af7663",
+  "bytes": 8180
+ },
+ {
+  "path": "phase1/overlays/Anantasana.jpg",
+  "sha256": "a7127efb30efa9d8e5a478361d3649cdf68aa340488e22b943940a432bb14e23",
+  "bytes": 110617
+ },
+ {
+  "path": "phase1/overlays/Ardhakati_Chakrasana.jpg",
+  "sha256": "da6ae5a45ff06b4a895433ba2a1c4746bbe1d46f4abc578eb320112f4b787e5e",
+  "bytes": 128926
+ },
+ {
+  "path": "phase1/overlays/Bhujangasana.jpg",
+  "sha256": "124375abb72003adaeca630d6d7cae6d9723b3636f03d3e4a6947ee0d8b794be",
+  "bytes": 126570
+ },
+ {
+  "path": "phase1/overlays/Kati_Chakrasana.jpg",
+  "sha256": "1688ca0ee3a0bdf9e300cb94aee5ae4bf5f020ee2cb365b39a70757a92579237",
+  "bytes": 94959
+ },
+ {
+  "path": "phase1/overlays/Marjariasana.jpg",
+  "sha256": "3416969ee75db1e7bbdeb339c286ccd3ae3289e627abaf39c7f8d2d579448452",
+  "bytes": 109263
+ },
+ {
+  "path": "phase1/overlays/Parvatasana.jpg",
+  "sha256": "3ed13dc5f90f1fa2413d088442e4f2a612692402a4482bf9ff2ebb5331d3923c",
+  "bytes": 106675
+ },
+ {
+  "path": "phase1/overlays/Sarvangasana.jpg",
+  "sha256": "d8474f6fd7f08c58a1d4b37b1463581d31744f05071a557cb5e3950881173a03",
+  "bytes": 111431
+ },
+ {
+  "path": "phase1/overlays/Tadasana.jpg",
+  "sha256": "2fd207ac15839bb55a4cf4a54cb49873ffc4a7e6d9faa525db91b992118f5edc",
+  "bytes": 122617
+ },
+ {
+  "path": "phase1/overlays/Vajrasana.jpg",
+  "sha256": "2ebb13fc95d94d763dae42407aacebefc3de85fab532fd9da079365efab34765",
+  "bytes": 138023
+ },
+ {
+  "path": "phase1/overlays/Viparita_Karani.jpg",
+  "sha256": "9797f4f06851d174d0b5084bcafd0fa8c635602ce29e7d6c9035ccd97796336b",
+  "bytes": 97406
+ },
+ {
+  "path": "phase1/PHASE1_REPORT.md",
+  "sha256": "1fa9b630a5908d321db8f95a33468eefb85678bcee168004e1a0ab35c64faded",
+  "bytes": 3795
+ },
+ {
+  "path": "phase1/phase1_verify_report.txt",
+  "sha256": "85e4db0fbb15369c67581d36f71843266116efdddb495785395ca9d1ab6bf9cf",
+  "bytes": 4366
+ },
+ {
+  "path": "phase3/dev_auc.py",
+  "sha256": "871ebbcbe0e7a7b77daec5412be39bfe4fc21da41c1a236e3cde62692e6c0099",
+  "bytes": 1636
+ },
+ {
+  "path": "phase3/dev_auc_report.txt",
+  "sha256": "d4c0859c79c6e305f7f1bee011fcf8430df4f2b534a557bfeb155ba5e2449bff",
+  "bytes": 1498
+ },
+ {
+  "path": "phase3/dev_grid.csv",
+  "sha256": "c5eade8583fdf68e943146d7b62b26045b6698882d4acb958959e4597262367b",
+  "bytes": 3007
+ },
+ {
+  "path": "phase3/extract_stills.log",
+  "sha256": "6dc49a10afc2b01a40228e6a6890b5bafa868efdf516730bdfa085ae76ce50c2",
+  "bytes": 273
+ },
+ {
+  "path": "phase3/extract_video_s6.log",
+  "sha256": "dd899c3c50db433caf7ee121f4aa5ebc2a76c4dc0ec8890fa604422fec9c99d9",
+  "bytes": 1541
+ },
+ {
+  "path": "phase3/frozen_config.json",
+  "sha256": "4a8f255b5c9d65b7a9b9152448d3d75271ca292d74d114ce1f92e760a046bfba",
+  "bytes": 472
+ },
+ {
+  "path": "phase3/kpts_stills_640.npz",
+  "sha256": "c18d4039c89bb73546d696f8f2ffeb92cda34956991a9ac3ec919a9728d939bc",
+  "bytes": 2553855
+ },
+ {
+  "path": "phase3/kpts_video_s6.npz",
+  "sha256": "c0216e2c70470ca6cda2f1fb869571d2e0f01a66d96582626c513f16bb6f0364",
+  "bytes": 1759912
+ },
+ {
+  "path": "phase3/phase3_dev_report.txt",
+  "sha256": "28ca77082483304f845f78f6cf9d12dc145635759527e80abf226c8f420046ce",
+  "bytes": 3245
+ },
+ {
+  "path": "phase3/phase3_dev_report_first_run.txt",
+  "sha256": "2caa79c9f3894381027cc416f015d9e7bf1b49e64c337c122781fc00daeade88",
+  "bytes": 1898
+ },
+ {
+  "path": "phase3/PHASE3_REPORT.md",
+  "sha256": "70409f2d7cd2c3200066fafe09105139561aec2b7c4ea713315a9cd6aefdbf79",
+  "bytes": 4279
+ },
+ {
+  "path": "phase3/PHASE3_STILLS_REPORT.md",
+  "sha256": "85bcfb43d11c548121716b34876adae2bb0c67c924f37f6eca4398b94ae353bd",
+  "bytes": 4677
+ },
+ {
+  "path": "phase3/phase3_test_report.txt",
+  "sha256": "e74fb2fee34eaa1dad7b5271c0be142c2abbb22eebbb0830304effc79430ca5a",
+  "bytes": 5371
+ },
+ {
+  "path": "phase3/phase3_video_report.txt",
+  "sha256": "8ed988691b91f2530d121fa701db417941ab27ca926f02be0e84c5ebb52329d1",
+  "bytes": 1736
+ },
+ {
+  "path": "phase3/PROTOCOL.md",
+  "sha256": "1ef56266f8efa829c8067304478bae4f01198c37552c45c2b5b42b36fefdc414",
+  "bytes": 5744
+ },
+ {
+  "path": "phase3/PROTOCOL_V2.md",
+  "sha256": "01f21e4028ff214c12203dd66eef160cb779a1f14717ab26186448d89832e808",
+  "bytes": 4130
+ },
+ {
+  "path": "phase3/PROTOCOL_VIDEO.md",
+  "sha256": "cac11b64490d2ff7836575e613a687d5fce6e49ad0581718e950563538d3bc8a",
+  "bytes": 4339
+ },
+ {
+  "path": "phase3/reference_ranges_stills.csv",
+  "sha256": "4763dd09868dddd52567cfa840b9a801769afd909a5fb507032bfc271415a5c2",
+  "bytes": 14409
+ },
+ {
+  "path": "phase3/results_stills_per_asana.csv",
+  "sha256": "90fa0b08c0240e5deb317620d8ad780d6b57272197a357e254ba2ac97c539716",
+  "bytes": 2155
+ },
+ {
+  "path": "phase3/TEST_TOUCHED.json",
+  "sha256": "d0e2989b3c42b711495f9acdc64fc76852c7283731f12241143e81db04134314",
+  "bytes": 596
+ },
+ {
+  "path": "phase3/v2/selection_report.txt",
+  "sha256": "fd352ce08093778d55d0fed1d891de2ce2f1f4ff5359617db27373447cc5909e",
+  "bytes": 355
+ },
+ {
+  "path": "phase3/v2/selection_table.csv",
+  "sha256": "9513172dd70f9e1c846f50b6e087210e7095d396e299932b54468a82f213b69a",
+  "bytes": 19906
+ },
+ {
+  "path": "phase3/v2/STOPPED.json",
+  "sha256": "3a5d40420c1699dfd14c6b2f8177348deb49247ba77d8016722c514066bba30a",
+  "bytes": 505
+ },
+ {
+  "path": "phase3/video_rows_V2.csv",
+  "sha256": "4c36cd5ec5a82333b24cab4d4928ad36c0a534702e15a55524da436741ed8d4a",
+  "bytes": 631940
+ },
+ {
+  "path": "phase3/video_rows_V3.csv",
+  "sha256": "fd94a7ab33c9e740a0c3f587af1d9d99e385ebbce1ddc019283b4d10b78984f4",
+  "bytes": 903247
+ },
+ {
+  "path": "phase3/VIDEO_TOUCHED.json",
+  "sha256": "1ba30dfde52324ba22be13fb49153d64b6efa2185b49154efdad03f31b04752c",
+  "bytes": 204
+ },
+ {
+  "path": "phase3/video_v1_acceptance_cells.csv",
+  "sha256": "bb665e202ec0016aebb419ac8fc957f01a727586755cc964db692a0370a6247d",
+  "bytes": 6844
+ },
+ {
+  "path": "phase4/PROTOCOL_PHASE4.md",
+  "sha256": "3067d887e37012c716ec6327f0b2c40c7080da7ebee62ff8902be87d010f46d4",
+  "bytes": 7691
+ },
+ {
+  "path": "poseguard/angles.py",
+  "sha256": "03a6456db7659f9a06d3c6b2a9e437c0da1d6bed796eef62ec2921912ad85500",
+  "bytes": 3863
+ },
+ {
+  "path": "poseguard/backbone.py",
+  "sha256": "93c830e352b8f2de7614ee38134f6270899260b5121268449c09a74fd4412ae8",
+  "bytes": 3749
+ },
+ {
+  "path": "poseguard/config.py",
+  "sha256": "30ac26a29c4c03fe950557971e100fb98cde647bcb273a3c381e8e991822bac9",
+  "bytes": 3305
+ },
+ {
+  "path": "poseguard/feedback.py",
+  "sha256": "34d1b576b7776b3c46b412d5c0398b764d741a72363cf799dd51fc7f87b49f26",
+  "bytes": 4575
+ },
+ {
+  "path": "poseguard/geo_v2.py",
+  "sha256": "0c7bcd28347e0690680985661693ca57eb7f7ce1653d421fea4ee2d8718a5523",
+  "bytes": 5528
+ },
+ {
+  "path": "poseguard/lr.py",
+  "sha256": "814b131f163ccc5d05f3542fcdf988b575a76bc00e21bfed7f6868ac53b6a2f8",
+  "bytes": 1801
+ },
+ {
+  "path": "poseguard/overlay.py",
+  "sha256": "aa566d26e00dbd21ff3f5a2787bfd82be3446365cdb813ffc832d5b729c3141a",
+  "bytes": 1284
+ },
+ {
+  "path": "poseguard/phase3.py",
+  "sha256": "1e20a3146ec66542ab010c1f4e5db196b15525d36c16c920d620c9c663b58417",
+  "bytes": 7324
+ },
+ {
+  "path": "poseguard/rules.py",
+  "sha256": "dfd9dad1ec806edec50d736cab175877476013b9945c74160877787544ecc211",
+  "bytes": 1752
+ },
+ {
+  "path": "poseguard/temporal.py",
+  "sha256": "deb0eac52ce7e524087545f68c7700d3d80864fc7441047fb7c691e50e2deafa",
+  "bytes": 10298
+ },
+ {
+  "path": "poseguard/videostage.py",
+  "sha256": "194337a6086cdd4dd1c25c6ace1030ab391952719c974c2fc3188e4042e217a3",
+  "bytes": 2804
+ },
+ {
+  "path": "README.md",
+  "sha256": "cc915c5595de40e7044bf57ae7830e39b8254d70f49a3d4eb0f806c105f18a1f",
+  "bytes": 3332
+ },
+ {
+  "path": "requirements.txt",
+  "sha256": "20f70ed8f48158259582322a8e25324d0f8b584a7e7ed20ea2bdc8792c74df6c",
+  "bytes": 952
+ },
+ {
+  "path": "scripts/extract_stills.py",
+  "sha256": "6ee3ee970084aa119e15746b6143241f97a3707f7f248df97cb90f6942132457",
+  "bytes": 1685
+ },
+ {
+  "path": "scripts/extract_video_dense.py",
+  "sha256": "4225b8ab487d7d0ece851088b6f4a1f1d64a5257a010af6906fd5cd0a5a2b522",
+  "bytes": 1790
+ },
+ {
+  "path": "scripts/extract_video_full.py",
+  "sha256": "c891abb22cfe6f83aebc8baa05adb37ea13198d45850fc16d85ea0b97621fb99",
+  "bytes": 2571
+ },
+ {
+  "path": "scripts/phase1_verify.py",
+  "sha256": "09b8e503d6a321d8e994e2d6674e2d568e2a33c94ea518e50f5a717a0d791d99",
+  "bytes": 4241
+ },
+ {
+  "path": "scripts/phase3_dev.py",
+  "sha256": "2919309d10d4f3db136f710eca3ecc6a6969d964ce28547e1f0f3e1a681a4821",
+  "bytes": 4389
+ },
+ {
+  "path": "scripts/phase3_test.py",
+  "sha256": "915430bafa3c7d421180e04172c9f479226f8ae058895371e6d6a688aa677c02",
+  "bytes": 7260
+ },
+ {
+  "path": "scripts/phase3_v2_select.py",
+  "sha256": "571189dcec88494dd36c1457e69d67b4177b874a4f61716ada89a70825db9f9c",
+  "bytes": 3142
+ },
+ {
+  "path": "scripts/phase3_video.py",
+  "sha256": "30f17e43ffb64a2722dce380d81a49528585593ce644c06ab06b62208defddbc",
+  "bytes": 6621
+ },
+ {
+  "path": "scripts/phase4_test.py",
+  "sha256": "59fa5a8978d94e363f1805cbf3ce5fbf2526d748827fbfc464ce98d9b60d161e",
+  "bytes": 6929
+ },
+ {
+  "path": "scripts/phase4_train.py",
+  "sha256": "7205a4acc5297eb0a1023e44a7dfb51a67b9ad38e866ca0175ff6acb00162082",
+  "bytes": 4399
+ },
+ {
+  "path": "tests/test_angles.py",
+  "sha256": "0966b17645f399d001890b450bdffda187fd365d3e4aed2b18c03bcb5e879259",
+  "bytes": 5351
+ },
+ {
+  "path": "tests/test_backbone.py",
+  "sha256": "5e26d646f8f24cfc9e6b51610accc5855e9f1f8497ca05e65f7319770712c20c",
+  "bytes": 3987
+ },
+ {
+  "path": "tests/test_feedback.py",
+  "sha256": "b2219a00ff5b2147263e41c5e43c43550fbe435c2e074d32007858f2e406364b",
+  "bytes": 7301
+ },
+ {
+  "path": "tests/test_geo_v2.py",
+  "sha256": "d482884682420c5dc61be9ef0e0f42c89e7a6b56e2102e78078bd54d8e575a1e",
+  "bytes": 5556
+ },
+ {
+  "path": "tests/test_phase3.py",
+  "sha256": "7232bc216185f0f702f7dd40fc12da64046f1b2d7bdc549eae03095e93006778",
+  "bytes": 7628
+ },
+ {
+  "path": "tests/test_temporal.py",
+  "sha256": "cbd963c8ddfee23838ddcb533a15a72a4b255023dcef09a0daf16000b2f60ed3",
+  "bytes": 5625
+ },
+ {
+  "path": "tests/test_videostage.py",
+  "sha256": "aeb192e4983b0a1c216e2cb1b887e59a4bcaf5686ef7a51c89bde0f3642a7e17",
+  "bytes": 4094
+ },
+ {
+  "path": "tools/agreement.py",
+  "sha256": "b6c58765cab55941ee2c0aa01c73e2258a8b7c7c14978c38d909c3cacb7fe2c3",
+  "bytes": 5962
+ },
+ {
+  "path": "tools/annotate_steps.py",
+  "sha256": "7b039149d948edf150fc65fdf588e1ad0ef76b60254b9334d3c1e73231960122",
+  "bytes": 18560
+ },
+ {
+  "path": "tools/cross_device_check.py",
+  "sha256": "d9ecd30ec21fb788ea89af2d6716d58aee70909efcc2033ff9dc719469924f56",
+  "bytes": 4312
+ },
+ {
+  "path": "tools/env_check.py",
+  "sha256": "6146bf18017741c9d58f4a8775ceeffdbb68699e99b19647c8740185a38001ee",
+  "bytes": 2983
+ },
+ {
+  "path": "tools/fetch_data.py",
+  "sha256": "dd9229c1fcfbac34ddf026c983d89d65468e20bd4a04f6ebf8334ca741855045",
+  "bytes": 1868
+ },
+ {
+  "path": "tools/make_release.py",
+  "sha256": "66c764e80f6798c7ad98f89f07b1f4c5eb4535e63da76c56db839e087e897826",
+  "bytes": 5818
+ },
+ {
+  "path": "tools/probe_check.py",
+  "sha256": "3ca82f5d52180e619fa3f290381b0a9eb2b4c1414678c42528da2a03a2762c3f",
+  "bytes": 1411
+ },
+ {
+  "path": "tools/verify_lr.py",
+  "sha256": "91ed1931c1073c0fc071f917bedad70116f002ab5985d6eecd220cf4d31cbdfe",
+  "bytes": 5017
+ },
+ {
+  "path": "tools/verify_release.py",
+  "sha256": "2d2e4e18fe65af95a1b04dc053878da9a92a103bb4049ca0a0ada605c3cfdf7a",
+  "bytes": 4092
+ }
+]

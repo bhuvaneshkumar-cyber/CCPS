@@ -1,0 +1,16 @@
+exact-duplicate files: 3914 in 1658 groups
+groups spanning >1 asana: 612 | spanning both Right and Wrong: 104
+                                  n                                       asanas          labels                                                                                                                          steps
+md5                                                                                                                                                                                                                            
+00454afbc003e27687e42d61a0282691  3  [Anantasana, Sarvangasana, Viparita Karani]         [Right]                                             [Anantasana Right Step 1, Sarvangasana Right Step 1, Viparita Karani Right Step 1]
+0081661047411e107b5d9a10e89b1757  3  [Anantasana, Sarvangasana, Viparita Karani]         [Right]                                             [Anantasana Right Step 1, Sarvangasana Right Step 1, Viparita Karani Right Step 1]
+00ce2ea5c2970c1081d706361063bbd1  4  [Anantasana, Sarvangasana, Viparita Karani]  [Right, Wrong]  [Anantasana Right Step 4, Anantasana Wrong Step 1- Legs, Sarvangasana Wrong Step 1- Legs, Viparita Karani Wrong Step 1- Legs]
+00dec28112aac7216c71f4954b4f726a  2              [Sarvangasana, Viparita Karani]         [Wrong]                                     [Sarvangasana Wrong Step 2- Back (Overbend), Viparita Karani Wrong Step 2- Back (Bending)]
+00eb8d011e027bfeba9648d93dd796b8  3  [Anantasana, Sarvangasana, Viparita Karani]         [Right]                                             [Anantasana Right Step 1, Sarvangasana Right Step 1, Viparita Karani Right Step 1]
+01706117af95c5cf7f516663cf5d7dbb  3  [Anantasana, Sarvangasana, Viparita Karani]         [Right]                                             [Anantasana Right Step 1, Sarvangasana Right Step 1, Viparita Karani Right Step 1]
+01a8481cedded8d6d8ebf9e7ec500f37  3  [Anantasana, Sarvangasana, Viparita Karani]         [Right]                                             [Anantasana Right Step 1, Sarvangasana Right Step 1, Viparita Karani Right Step 1]
+01bdae898046fe2405d9158f96fb834a  3  [Anantasana, Sarvangasana, Viparita Karani]         [Wrong]                            [Anantasana Wrong Step 1-Neck, Sarvangasana Wrong Step 1- Neck, Viparita Karani Wrong Step 2- Neck]
+022f3bb6095fd18d53899b5fa1787842  3  [Anantasana, Sarvangasana, Viparita Karani]         [Right]                                             [Anantasana Right Step 1, Sarvangasana Right Step 1, Viparita Karani Right Step 1]
+030323cd4da5bfecf186c2c9249747b3  2              [Sarvangasana, Viparita Karani]         [Wrong]                                                        [Sarvangasana Wrong Step 2- Knees, Viparita Karani Wrong Step 2- Knees]
+groups within a single folder: 0
+filenames that occur in >1 asana: 612

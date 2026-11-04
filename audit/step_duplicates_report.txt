@@ -1,0 +1,16 @@
+       asana label  step   n  n_dup_of_other_step  frac also_in_steps
+Bhujangasana Right     1 249                  249   1.0           [3]
+Bhujangasana Right     3 249                  249   1.0           [1]
+Bhujangasana Wrong     1 154                  154   1.0           [3]
+Bhujangasana Wrong     3 154                  154   1.0           [1]
+    Tadasana Right     1 200                  200   1.0           [5]
+    Tadasana Right     2 138                  138   1.0           [4]
+    Tadasana Right     4 138                  138   1.0           [2]
+    Tadasana Right     5 200                  200   1.0           [1]
+    Tadasana Wrong     1 179                  179   1.0           [5]
+    Tadasana Wrong     2 126                  126   1.0           [4]
+    Tadasana Wrong     4 126                  126   1.0           [2]
+    Tadasana Wrong     5 179                  179   1.0           [1]
+
+asana/label combos with ANY cross-step duplication: 4 of 20
+steps that are >=90% copies of another step: 12 of 70

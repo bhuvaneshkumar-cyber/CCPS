@@ -1,0 +1,6 @@
+tau=0.5; per-frame view classification (see docstring); test on shoulders (left idx 5, right idx 6)
+FACING CAMERA: 175 frames from 8 videos; fraction satisfying 'left_shoulder.x > right_shoulder.x' = 0.983
+   videos with violations: ['Ardhakati Chakrasana Right Step Angle 2-conve', 'Ardhakati Chakrasana Wrong Step Angle 2-conve']
+FACING AWAY: 164 frames from 6 videos; fraction satisfying 'left_shoulder.x < right_shoulder.x' = 0.970
+   videos with violations: ['Ardhakati Chakrasana Right Step Angle 4-conve', 'Tadasana Right Steps Angle 1-converted.mp4']
+VERDICT: backbone 'left_*' is the subject's anatomical left (COCO convention) on non-mirrored input

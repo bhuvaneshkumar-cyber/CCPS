@@ -1,0 +1,10 @@
+shoulder span (x)  median ratio squash/null = 0.932 CI[0.920,0.944] n= 856   ideal 1.000
+hip span (x)       median ratio squash/null = 0.912 CI[0.901,0.918] n= 799   ideal 1.000
+L thigh (y)        median ratio squash/null = 0.520 CI[0.510,0.529] n= 750   ideal 0.563
+R thigh (y)        median ratio squash/null = 0.526 CI[0.518,0.535] n= 746   ideal 0.563
+L shin (y)         median ratio squash/null = 0.548 CI[0.540,0.555] n= 676   ideal 0.563
+R shin (y)         median ratio squash/null = 0.535 CI[0.529,0.543] n= 663   ideal 0.563
+L torso (y)        median ratio squash/null = 0.585 CI[0.577,0.592] n= 949   ideal 0.563
+R torso (y)        median ratio squash/null = 0.591 CI[0.585,0.594] n= 948   ideal 0.563
+
+mean x-ratio 0.922 (ideal 1.000), mean y-ratio 0.551 (ideal 0.563) -> k_eff = 1.67 vs geometric 1.778

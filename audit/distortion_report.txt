@@ -1,0 +1,27 @@
+
+[VALIDATION A/null] known k=1.000: pooled k_hat=3.00 CI[3.00,3.00] | per-asana median k_hat range [1.93,3.00] median 3.00 -> FAIL (tol 0.15)
+asana            Anantasana  Ardhakati Chakrasana  Bhujangasana  Kati Chakrasana  Marjariasana  Parvatasana  Tadasana  Vajrasana
+k_hat                  1.92                  3.00          3.00             3.00          3.00         3.00      2.08       3.00
+depth(d(1)-min)        0.04                  0.07          0.13             0.03          0.18         0.07      0.02       0.09
+[VALIDATION B/null] known k=1.000: k_hat=1.00 CI[0.96,1.05] -> PASS
+
+[VALIDATION A/squash] known k=1.778: pooled k_hat=3.00 CI[3.00,3.00] | per-asana median k_hat range [1.15,3.00] median 3.00 -> FAIL (tol 0.15)
+asana            Anantasana  Ardhakati Chakrasana  Bhujangasana  Kati Chakrasana  Marjariasana  Parvatasana  Tadasana  Vajrasana
+k_hat                  1.15                  3.00          3.00             3.00          3.00         3.00      2.48       3.00
+depth(d(1)-min)        0.01                  0.14          0.13             0.07          0.25         0.06      0.07       0.14
+[VALIDATION B/squash] known k=1.778: k_hat=1.56 CI[1.47,1.62] -> FAIL
+
+[REAL STILLS A] per asana (usable stills, block-bootstrap 95% CI):
+                group  n_still  n_ref  k_hat  ci_lo  ci_hi  depth(d(1)-min)
+          Anantasana      400    223   1.20   1.00   1.45             0.00
+Ardhakati Chakrasana      400    320   1.95   1.82   2.05             0.07
+        Bhujangasana      400    309   0.80   0.80   1.00             0.00
+     Kati Chakrasana      400    320   2.15   2.05   2.30             0.10
+        Marjariasana      400    263   1.65   1.60   1.70             0.04
+         Parvatasana      400    231   2.10   1.95   2.25             0.09
+            Tadasana      400    320   2.35   2.20   2.75             0.07
+           Vajrasana       81    229   1.90   1.75   2.00             0.07
+pooled k_hat=1.80 CI[1.75,1.88] | across-asana median 1.92, range [0.80,2.35]
+[REAL STILLS B] Tadasana               k=1.71 CI[1.56,2.28]  (n_still=646, n_video=318)
+[REAL STILLS B] Kati Chakrasana        k=1.52 CI[1.49,1.64]  (n_still=470, n_video=314)
+[REAL STILLS B] Ardhakati Chakrasana   k=1.42 CI[1.38,1.47]  (n_still=553, n_video=233)

@@ -1,0 +1,26 @@
+# PRIORITY 1 (first 12): Right clips - unblock video reference ranges + the still-vs-video acceptance test
+# PRIORITY 2 (last 12): Wrong clips - video-based correct/incorrect evaluation for the same asanas
+Videos/Tadasana/Tadasana Right Steps/Tadasana Right Steps Angle 1-converted.mp4
+Videos/Tadasana/Tadasana Right Steps/Tadasana Right Steps Angle 2-converted.mp4
+Videos/Tadasana/Tadasana Right Steps/Tadasana Right Steps Angle 3-converted.mp4
+Videos/Tadasana/Tadasana Right Steps/Tadasana Right Steps Angle 4-converted.mp4
+Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 1-converted.mp4
+Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 2-converted.mp4
+Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 3-converted.mp4
+Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 4-converted.mp4
+Videos/Kati Chakrasana/Kati Chakrasana Right Steps/Kati Chakrasana Right Steps Angle 1-converted.mp4
+Videos/Kati Chakrasana/Kati Chakrasana Right Steps/Kati Chakrasana Right Steps Angle 2-converted.mp4
+Videos/Kati Chakrasana/Kati Chakrasana Right Steps/Kati Chakrasana Right Steps Angle 3-converted.mp4
+Videos/Kati Chakrasana/Kati Chakrasana Right Steps/Kati Chakrasana Right Steps Angle 4-converted.mp4
+Videos/Tadasana/Tadasana Wrong Steps/Tadasana Wrong Steps Angle 1-converted.mp4
+Videos/Tadasana/Tadasana Wrong Steps/Tadasana Wrong Steps Angle 2-converted.mp4
+Videos/Tadasana/Tadasana Wrong Steps/Tadasana Wrong Steps Angle 3-converted.mp4
+Videos/Tadasana/Tadasana Wrong Steps/Tadasana Wrong Steps Angle 4-converted.mp4
+Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Wrong Steps/Ardhakati Chakrasana Wrong Step Angle 1-converted.mp4
+Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Wrong Steps/Ardhakati Chakrasana Wrong Step Angle 2-converted.mp4
+Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Wrong Steps/Ardhakati Chakrasana Wrong Step Angle 3-converted.mp4
+Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Wrong Steps/Ardhakati Chakrasana Wrong Step Angle 4-converted.mp4
+Videos/Kati Chakrasana/Kati Chakrasana Wrong Steps/Kati Chakrasana Wrong Steps Angle 1-converted.mp4
+Videos/Kati Chakrasana/Kati Chakrasana Wrong Steps/Kati Chakrasana Wrong Steps Angle 2-converted.mp4
+Videos/Kati Chakrasana/Kati Chakrasana Wrong Steps/Kati Chakrasana Wrong Steps Angle 3-converted.mp4
+Videos/Kati Chakrasana/Kati Chakrasana Wrong Steps/Kati Chakrasana Wrong Steps Angle 4-converted.mp4

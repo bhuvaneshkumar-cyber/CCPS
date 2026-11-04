@@ -1,0 +1,6 @@
+dev rows for selection: 5096 (Right 2834, in-vocab Wrong 2262); cells: 270
+observed: Q1 54 | Q1&Q2 9 | Q1&Q2&Q4 3 | qualifying (all four) 1   [1s]
+permutation null (200 label-permuted copies of dev, whole selection re-run): mean 0.94, median 1, 95th pct 3, max 5
+
+GATE: N_obs = 1 >= 6 and >= 2 x N0 (1.87)?  -> FAIL
+STOPPED: nothing frozen, no video run.

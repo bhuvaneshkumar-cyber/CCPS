@@ -1,0 +1,30 @@
+angle                           1        2        3        4
+asana                label                                  
+Ardhakati Chakrasana Right  front  profile     back  profile
+                     Wrong  front  profile     back  profile
+Kati Chakrasana      Right  front    front     back  profile
+                     Wrong  front  profile     back  profile
+Tadasana             Right  front  profile     back  profile
+                     Wrong  front  profile  profile     back
+
+view by angle number, RIGHT clips: {1: {'front': np.int64(3)}, 2: {'profile': np.int64(2), 'front': np.int64(1)}, 3: {'back': np.int64(3)}, 4: {'profile': np.int64(3)}}
+view by angle number, WRONG clips: {1: {'front': np.int64(3)}, 2: {'profile': np.int64(3)}, 3: {'back': np.int64(2), 'profile': np.int64(1)}, 4: {'profile': np.int64(2), 'back': np.int64(1)}}
+
+full table:
+                asana label  angle  span/torso  face_conf                      view
+          Anantasana Right      1        1.14       0.10    (back) n/a-not-upright
+          Anantasana Right      2        0.39       0.84   (front) n/a-not-upright
+          Anantasana Right      3        1.17       0.41    (back) n/a-not-upright
+          Anantasana Right      4        0.43       0.87   (front) n/a-not-upright
+          Anantasana Wrong      1        1.18       0.35    (back) n/a-not-upright
+          Anantasana Wrong      2        0.41       0.85   (front) n/a-not-upright
+          Anantasana Wrong      3        1.01       0.50    (back) n/a-not-upright
+          Anantasana Wrong      4        0.38       0.75   (front) n/a-not-upright
+Ardhakati Chakrasana Right      1        0.66       1.00                     front
+Ardhakati Chakrasana Right      2        0.17       0.66                   profile
+Ardhakati Chakrasana Right      3        0.64       0.02                      back
+Ardhakati Chakrasana Right      4        0.15       0.68                   profile
+Ardhakati Chakrasana Wrong      1        0.67       0.99                     front
+Ardhakati Chakrasana Wrong      2        0.16       0.66                   profile
+Ardhakati Chakrasana Wrong      3        0.71       0.01                      back
+Ardhakati Chakrasana Wrong      4        0.13       0.68                   profile

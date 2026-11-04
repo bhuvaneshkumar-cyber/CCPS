@@ -1,0 +1,41 @@
+stills loaded: 8259 | split counts: {'dev': 5234, 'test': 1954, 'guard': 1071}
+split                  dev  guard  test
+asana                                  
+Anantasana             381     74   122
+Ardhakati Chakrasana   606     99   222
+Bhujangasana           408    100   252
+Kati Chakrasana        355     56   134
+Marjariasana          1063    221   309
+Parvatasana           1733    407   637
+Tadasana               586     98   245
+Vajrasana              102     16    33
+blocks per split: {'dev': 187, 'guard': 219, 'test': 73}
+dev evaluation rows: 5096 | Right: 2834 Wrong in-vocab: 2262 | dev Wrong out-of-vocab dropped: 138
+p=1.0 delta= 5.0: macroF1=0.314 P=0.586 R=0.227 abstain=0.477
+p=1.0 delta=10.0: macroF1=0.168 P=0.455 R=0.108 abstain=0.477
+p=1.0 delta=15.0: macroF1=0.120 P=0.430 R=0.073 abstain=0.477
+p=1.0 delta=20.0: macroF1=0.101 P=0.432 R=0.059 abstain=0.477
+p=2.5 delta= 5.0: macroF1=0.417 P=0.608 R=0.345 abstain=0.477
+p=2.5 delta=10.0: macroF1=0.245 P=0.546 R=0.168 abstain=0.477
+p=2.5 delta=15.0: macroF1=0.165 P=0.425 R=0.109 abstain=0.477
+p=2.5 delta=20.0: macroF1=0.138 P=0.412 R=0.088 abstain=0.477
+p=5.0 delta= 5.0: macroF1=0.540 P=0.620 R=0.511 abstain=0.477
+p=5.0 delta=10.0: macroF1=0.370 P=0.582 R=0.294 abstain=0.477
+p=5.0 delta=15.0: macroF1=0.297 P=0.584 R=0.218 abstain=0.477
+p=5.0 delta=20.0: macroF1=0.206 P=0.454 R=0.148 abstain=0.477
+
+SELECTED (dev CV only): p = 5.0  delta = 5.0  macroF1 = 0.540
+
+reference ranges derived: 170 (asana, class, angle) bands of 270 possible; median width by angle (deg):
+angle
+left_elbow             95.0
+left_hip               96.0
+left_knee             120.0
+left_shoulder          99.0
+right_elbow            87.0
+right_hip              98.0
+right_knee             76.0
+right_shoulder        103.0
+shoulder_line_tilt     54.0
+trunk_tilt             28.0
+frozen_config.json written. The test split has not been touched.

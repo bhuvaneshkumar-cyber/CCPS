@@ -1,0 +1,43 @@
+frozen config: p=15.0 delta=5.0 K=1.65 tau=0.5  (second look: False)
+test rows 1954 | headline (Right + in-vocabulary Wrong) 1876 | scored (not abstained) 1165 | abstain rate 0.379
+               asana     n  n_right  n_wrong  blocks  accuracy  bal_acc  precision                                      p_ci  recall                                     r_ci    f1                                     f1_ci  abstain                                                note
+          Anantasana  71.0     45.0     26.0     4.0     0.423    0.536      0.385                                (0.0, 1.0)   0.962                (0.9523809523809523, 1.0) 0.549                 (0.0, 0.9803921568627451)    0.418                                                 NaN
+Ardhakati Chakrasana 102.0     61.0     41.0     7.0     0.422    0.468      0.382  (0.07016523867809057, 0.831291249733872)   0.707 (0.4864864864864865, 0.9655172413793104) 0.496  (0.1276595744680851, 0.8143823464182744)    0.482                                                 NaN
+        Bhujangasana   NaN      NaN      NaN     NaN       NaN      NaN        NaN                                       NaN     NaN                                      NaN   NaN                                       NaN      NaN no scored test rows (no reference or all abstained)
+     Kati Chakrasana  32.0     13.0     19.0     3.0     0.625    0.575      0.640                                (0.0, 1.0)   0.842 (0.8421052631578947, 0.8421052631578947) 0.727                 (0.0, 0.9142857142857143)    0.680                                                 NaN
+        Marjariasana 296.0    159.0    137.0    11.0     0.473    0.497      0.461 (0.13725490196078433, 0.8009847698806788)   0.825                (0.7172774869109948, 1.0) 0.592 (0.23931623931623933, 0.8114526828910714)    0.042                                                 NaN
+         Parvatasana 504.0    220.0    284.0    17.0     0.562    0.514      0.571  (0.2697396737244013, 0.8209544917257682)   0.891  (0.7436740152374777, 0.980651325251695) 0.696 (0.40494223762552206, 0.8613777224820168)    0.209                                                 NaN
+            Tadasana 160.0     90.0     70.0     5.0     0.588    0.606      0.520                 (0.0, 0.9906542056074766)   0.757              (0.7333333333333333, 0.775) 0.616                 (0.0, 0.8582995951417004)    0.347                                                 NaN
+           Vajrasana   NaN      NaN      NaN     NaN       NaN      NaN        NaN                                       NaN     NaN                                      NaN   NaN                                       NaN      NaN no scored test rows (no reference or all abstained)
+
+MACRO F1 (incorrect) over asanas = 0.613  95% block-bootstrap CI [0.344, 0.736]
+MACRO BALANCED ACCURACY over asanas = 0.533  95% block-bootstrap CI [0.480, 0.593]  (chance / any constant predictor = 0.500)
+pooled (micro): {'precision': np.float64(0.512), 'recall': np.float64(0.847), 'specificity': np.float64(0.206), 'bal_acc': np.float64(0.527), 'f1': np.float64(0.638), 'accuracy': np.float64(0.524), 'n': 1165, 'tp': 489, 'fp': 467, 'fn': 88, 'tn': 121}
+base rate of 'incorrect' among scored test rows = 0.495 (an always-'incorrect' predictor has F1 = 0.662, precision = 0.495)
+
+PER-ANGLE COVERAGE on headline test rows (fraction computable / fraction judged with a reference):
+               left_knee  right_knee  left_hip  right_hip  left_elbow  right_elbow  left_shoulder  right_shoulder  trunk_tilt  shoulder_line_tilt
+computable          0.75        0.76      0.79       0.82        0.72         0.72           0.79            0.80        0.85                0.88
+has_reference       0.71        0.71      0.71       0.71        0.71         0.71           0.71            0.71        0.71                0.71
+
+FAULT FAMILIES (in-vocabulary Wrong test rows, not abstained):
+  tag contains legs : n= 453  flagged incorrect 0.817  | of the flagged, largest-deviation family is one of the tag's families: 0.732
+  tag contains arms : n= 428  flagged incorrect 0.860  | of the flagged, largest-deviation family is one of the tag's families: 0.851
+  confusion (rows: true single-family tag; cols: family of the largest deviation), flagged only:
+top_family   arms  legs  trunk
+true_family                   
+arms           93    18      8
+legs           54    51     16
+  attribution: largest-deviation family is one of the tag's families in 0.744 of 489 flagged in-vocabulary Wrong rows
+
+OUT-OF-VOCABULARY Wrong (neck/head/ankle/standing only), not in headline: n=40, flagged incorrect 0.825
+abstained headline rows by asana: {'Anantasana': 51, 'Ardhakati Chakrasana': 95, 'Bhujangasana': 233, 'Kati Chakrasana': 68, 'Marjariasana': 13, 'Parvatasana': 133, 'Tadasana': 85, 'Vajrasana': 33}
+
+SENSITIVITY (reported, not used for selection): macro-F1 on the same test rows
+  K=1.50                           macro-F1 = 0.610   macro-BA = 0.530
+  K=1.65 (frozen)                  macro-F1 = 0.613   macro-BA = 0.533
+  K=1.85                           macro-F1 = 0.614   macro-BA = 0.539
+  delta-5 (floor 0)                macro-F1 = 0.634   macro-BA = 0.507
+  delta+5                          macro-F1 = 0.547   macro-BA = 0.530
+  first-run F1-selected p=5,d=5    macro-F1 = 0.532   macro-BA = 0.560
+saved phase3/results_stills_per_asana.csv

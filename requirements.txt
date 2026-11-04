@@ -1,0 +1,18 @@
+# Python 3.14. Exact pins of the source machine (ENVIRONMENT.json); tools/env_check.py compares torch and ultralytics against them.
+# Install torch FIRST, as a CUDA 12.8 build (RTX 5080 = Blackwell sm_120 has no kernels in older builds):
+#   pip install torch==2.10.0 torchvision==0.25.0 --index-url https://download.pytorch.org/whl/cu128
+#
+# OpenCV: the source machine has BOTH opencv-python 4.13.0.92 (pulled in by ultralytics) and opencv-python-headless 5.0.0.93, and `import cv2` loads 5.0.0.
+# Every keypoint cache was decoded with cv2 5.0.0, so it must be the one that loads here too. After this file, run LAST:
+#   pip install --force-reinstall --no-deps opencv-python-headless==5.0.0.93
+# tools/env_check.py fails if the loaded cv2.__version__ is not 5.0.0.
+ultralytics==8.4.24
+opencv-python==4.13.0.92
+opencv-python-headless==5.0.0.93
+numpy==2.4.0
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.8.0
+onnx==1.22.0
+onnxruntime==1.29.0
+psutil==7.2.1

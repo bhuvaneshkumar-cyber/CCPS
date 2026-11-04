@@ -1,0 +1,645 @@
+{
+ "annotator": "YOURNAME",
+ "videos": {
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 3380
+  },
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2284
+  },
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2182
+  },
+  "Videos/Anantasana/Anantasana Right Steps/Anantasana Right Step Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2523
+  },
+  "Videos/Anantasana/Anantasana Wrong Steps/Anantasana Wrong Step Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 3189
+  },
+  "Videos/Anantasana/Anantasana Wrong Steps/Anantasana Wrong Step Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2515
+  },
+  "Videos/Anantasana/Anantasana Wrong Steps/Anantasana Wrong Step Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2662
+  },
+  "Videos/Anantasana/Anantasana Wrong Steps/Anantasana Wrong Step Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2166
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 1-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2686
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 2-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2078
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 3-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2311
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Right Steps/Ardhakati Chakrasana Right Step Angle 4-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2212
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Wrong Steps/Ardhakati Chakrasana Wrong Step Angle 1-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2084
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Wrong Steps/Ardhakati Chakrasana Wrong Step Angle 2-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1581
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Wrong Steps/Ardhakati Chakrasana Wrong Step Angle 3-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1625
+  },
+  "Videos/Ardhakati Chakrasana/Ardhakati Chakrasana Wrong Steps/Ardhakati Chakrasana Wrong Step Angle 4-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1402
+  },
+  "Videos/Bhujangasana/Bhujangasana Right Steps/Bhujangasana Right Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1648
+  },
+  "Videos/Bhujangasana/Bhujangasana Right Steps/Bhujangasana Right Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2129
+  },
+  "Videos/Bhujangasana/Bhujangasana Right Steps/Bhujangasana Right Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1667
+  },
+  "Videos/Bhujangasana/Bhujangasana Right Steps/Bhujangasana Right Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1644
+  },
+  "Videos/Bhujangasana/Bhujangasana Wrong Steps/Bhujangasana Wrong Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2404
+  },
+  "Videos/Bhujangasana/Bhujangasana Wrong Steps/Bhujangasana Wrong Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1878
+  },
+  "Videos/Bhujangasana/Bhujangasana Wrong Steps/Bhujangasana Wrong Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1584
+  },
+  "Videos/Bhujangasana/Bhujangasana Wrong Steps/Bhujangasana Wrong Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1489
+  },
+  "Videos/Kati Chakrasana/Kati Chakrasana Right Steps/Kati Chakrasana Right Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2654
+  },
+  "Videos/Kati Chakrasana/Kati Chakrasana Right Steps/Kati Chakrasana Right Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2863
+  },
+  "Videos/Kati Chakrasana/Kati Chakrasana Right Steps/Kati Chakrasana Right Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2329
+  },
+  "Videos/Kati Chakrasana/Kati Chakrasana Right Steps/Kati Chakrasana Right Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2335
+  },
+  "Videos/Kati Chakrasana/Kati Chakrasana Wrong Steps/Kati Chakrasana Wrong Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1945
+  },
+  "Videos/Kati Chakrasana/Kati Chakrasana Wrong Steps/Kati Chakrasana Wrong Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1749
+  },
+  "Videos/Kati Chakrasana/Kati Chakrasana Wrong Steps/Kati Chakrasana Wrong Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1523
+  },
+  "Videos/Kati Chakrasana/Kati Chakrasana Wrong Steps/Kati Chakrasana Wrong Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1693
+  },
+  "Videos/Marjariasana/Marjariasana Right Steps/Marjariasana Right Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2007
+  },
+  "Videos/Marjariasana/Marjariasana Right Steps/Marjariasana Right Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1731
+  },
+  "Videos/Marjariasana/Marjariasana Right Steps/Marjariasana Right Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1620
+  },
+  "Videos/Marjariasana/Marjariasana Right Steps/Marjariasana Right Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1586
+  },
+  "Videos/Marjariasana/Marjariasana Wrong Steps/Marjariasana Wrong Steps  Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2419
+  },
+  "Videos/Marjariasana/Marjariasana Wrong Steps/Marjariasana Wrong Steps  Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1818
+  },
+  "Videos/Marjariasana/Marjariasana Wrong Steps/Marjariasana Wrong Steps  Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1653
+  },
+  "Videos/Marjariasana/Marjariasana Wrong Steps/Marjariasana Wrong Steps  Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1649
+  },
+  "Videos/Parvatasana/Parvatasana Right Steps/Parvatasana Right Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1698
+  },
+  "Videos/Parvatasana/Parvatasana Right Steps/Parvatasana Right Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1399
+  },
+  "Videos/Parvatasana/Parvatasana Right Steps/Parvatasana Right Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 29.99,
+   "n_frames": 1536
+  },
+  "Videos/Parvatasana/Parvatasana Right Steps/Parvatasana Right Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1462
+  },
+  "Videos/Parvatasana/Parvatasana Wrong Steps/Parvatasana Wrong Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1906
+  },
+  "Videos/Parvatasana/Parvatasana Wrong Steps/Parvatasana Wrong Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1813
+  },
+  "Videos/Parvatasana/Parvatasana Wrong Steps/Parvatasana Wrong Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1640
+  },
+  "Videos/Parvatasana/Parvatasana Wrong Steps/Parvatasana Wrong Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1861
+  },
+  "Videos/Sarvangasana/Sarvangasana Right Steps/Sarvangasana Right Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2112
+  },
+  "Videos/Sarvangasana/Sarvangasana Right Steps/Sarvangasana Right Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1692
+  },
+  "Videos/Sarvangasana/Sarvangasana Right Steps/Sarvangasana Right Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 0
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1404
+  },
+  "Videos/Sarvangasana/Sarvangasana Right Steps/Sarvangasana Right Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1514
+  },
+  "Videos/Sarvangasana/Sarvangasana Wrong Steps/Sarvangasana Wrong Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1692
+  },
+  "Videos/Sarvangasana/Sarvangasana Wrong Steps/Sarvangasana Wrong Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1412
+  },
+  "Videos/Sarvangasana/Sarvangasana Wrong Steps/Sarvangasana Wrong Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1383
+  },
+  "Videos/Sarvangasana/Sarvangasana Wrong Steps/Sarvangasana Wrong Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1478
+  },
+  "Videos/Tadasana/Tadasana Right Steps/Tadasana Right Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2127
+  },
+  "Videos/Tadasana/Tadasana Right Steps/Tadasana Right Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1873
+  },
+  "Videos/Tadasana/Tadasana Right Steps/Tadasana Right Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1503
+  },
+  "Videos/Tadasana/Tadasana Right Steps/Tadasana Right Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1630
+  },
+  "Videos/Tadasana/Tadasana Wrong Steps/Tadasana Wrong Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1894
+  },
+  "Videos/Tadasana/Tadasana Wrong Steps/Tadasana Wrong Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2311
+  },
+  "Videos/Tadasana/Tadasana Wrong Steps/Tadasana Wrong Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2285
+  },
+  "Videos/Tadasana/Tadasana Wrong Steps/Tadasana Wrong Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2393
+  },
+  "Videos/Vajrasana/Vajrasana Right Steps/Vajrasana Right Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1481
+  },
+  "Videos/Vajrasana/Vajrasana Right Steps/Vajrasana Right Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1687
+  },
+  "Videos/Vajrasana/Vajrasana Right Steps/Vajrasana Right Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1497
+  },
+  "Videos/Vajrasana/Vajrasana Right Steps/Vajrasana Right Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1634
+  },
+  "Videos/Vajrasana/Vajrasana Wrong Steps/Vajrasana Wrong Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1573
+  },
+  "Videos/Vajrasana/Vajrasana Wrong Steps/Vajrasana Wrong Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1420
+  },
+  "Videos/Vajrasana/Vajrasana Wrong Steps/Vajrasana Wrong Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1474
+  },
+  "Videos/Vajrasana/Vajrasana Wrong Steps/Vajrasana Wrong Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1668
+  },
+  "Videos/Viparita Karani/Viparita Karani Right Steps/Viparita Karani Right Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2147
+  },
+  "Videos/Viparita Karani/Viparita Karani Right Steps/Viparita Karani Right Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1862
+  },
+  "Videos/Viparita Karani/Viparita Karani Right Steps/Viparita Karani Right Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1729
+  },
+  "Videos/Viparita Karani/Viparita Karani Right Steps/Viparita Karani Right Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1544
+  },
+  "Videos/Viparita Karani/Viparita Karani Wrong Steps/Viparita Karani Wrong Steps Angle 1-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 2139
+  },
+  "Videos/Viparita Karani/Viparita Karani Wrong Steps/Viparita Karani Wrong Steps Angle 2-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1820
+  },
+  "Videos/Viparita Karani/Viparita Karani Wrong Steps/Viparita Karani Wrong Steps Angle 3-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1753
+  },
+  "Videos/Viparita Karani/Viparita Karani Wrong Steps/Viparita Karani Wrong Steps Angle 4-converted.mp4": {
+   "marks": {
+    "0": 1
+   },
+   "done": true,
+   "fps": 30.01,
+   "n_frames": 1696
+  }
+ }
+}

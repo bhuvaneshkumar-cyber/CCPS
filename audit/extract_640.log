@@ -1,0 +1,4 @@
+D:\Bhuvanesh\My_Workspace\Projects\PoseGuard\audit\extract_kpts.py:16: FutureWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  d = d.groupby(["asana", "label"], group_keys=False).apply(lambda g: g.sample(min(len(g), int(sys.argv[3])), random_state=0))
+0 400
+saved D:\Bhuvanesh\My_Workspace\Projects\PoseGuard\audit\kpts_640_sample.npz no-detection: 46

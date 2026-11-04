@@ -1,0 +1,3 @@
+images 929 video thumbs 5342
+image->nearest video frame  L1 pct[5,25,50,75,95]: [44.55 50.99 56.03 64.95 75.31]
+image->nearest OTHER image  L1 pct[5,25,50,75,95]: [14.1  20.19 23.82 27.33 33.23]

@@ -1,0 +1,58 @@
+stills loaded: 8259 | split counts: {'dev': 5234, 'test': 1954, 'guard': 1071}
+split                  dev  guard  test
+asana                                  
+Anantasana             381     74   122
+Ardhakati Chakrasana   606     99   222
+Bhujangasana           408    100   252
+Kati Chakrasana        355     56   134
+Marjariasana          1063    221   309
+Parvatasana           1733    407   637
+Tadasana               586     98   245
+Vajrasana              102     16    33
+blocks per split: {'dev': 187, 'guard': 219, 'test': 73}
+dev evaluation rows: 5096 | Right: 2834 Wrong in-vocab: 2262 | dev Wrong out-of-vocab dropped: 138
+p=1.0 delta= 5.0: BA=0.520 macroF1=0.314 P=0.586 R=0.227 abstain=0.477
+p=1.0 delta=10.0: BA=0.500 macroF1=0.168 P=0.455 R=0.108 abstain=0.477
+p=1.0 delta=15.0: BA=0.495 macroF1=0.120 P=0.430 R=0.073 abstain=0.477
+p=1.0 delta=20.0: BA=0.494 macroF1=0.101 P=0.432 R=0.059 abstain=0.477
+p=2.5 delta= 5.0: BA=0.549 macroF1=0.417 P=0.608 R=0.345 abstain=0.477
+p=2.5 delta=10.0: BA=0.496 macroF1=0.245 P=0.546 R=0.168 abstain=0.477
+p=2.5 delta=15.0: BA=0.494 macroF1=0.165 P=0.425 R=0.109 abstain=0.477
+p=2.5 delta=20.0: BA=0.491 macroF1=0.138 P=0.412 R=0.088 abstain=0.477
+p=5.0 delta= 5.0: BA=0.583 macroF1=0.540 P=0.620 R=0.511 abstain=0.477
+p=5.0 delta=10.0: BA=0.526 macroF1=0.370 P=0.582 R=0.294 abstain=0.477
+p=5.0 delta=15.0: BA=0.524 macroF1=0.297 P=0.584 R=0.218 abstain=0.477
+p=5.0 delta=20.0: BA=0.507 macroF1=0.206 P=0.454 R=0.148 abstain=0.477
+p=10.0 delta= 5.0: BA=0.591 macroF1=0.632 P=0.596 R=0.712 abstain=0.477
+p=10.0 delta=10.0: BA=0.550 macroF1=0.528 P=0.589 R=0.501 abstain=0.477
+p=10.0 delta=15.0: BA=0.529 macroF1=0.440 P=0.573 R=0.376 abstain=0.477
+p=10.0 delta=20.0: BA=0.522 macroF1=0.404 P=0.565 R=0.329 abstain=0.477
+p=15.0 delta= 5.0: BA=0.595 macroF1=0.660 P=0.584 R=0.824 abstain=0.477
+p=15.0 delta=10.0: BA=0.567 macroF1=0.598 P=0.588 R=0.644 abstain=0.477
+p=15.0 delta=15.0: BA=0.536 macroF1=0.515 P=0.574 R=0.494 abstain=0.477
+p=15.0 delta=20.0: BA=0.530 macroF1=0.460 P=0.568 R=0.409 abstain=0.477
+p=20.0 delta= 5.0: BA=0.579 macroF1=0.670 P=0.570 R=0.889 abstain=0.477
+p=20.0 delta=10.0: BA=0.576 macroF1=0.641 P=0.583 R=0.761 abstain=0.477
+p=20.0 delta=15.0: BA=0.537 macroF1=0.554 P=0.569 R=0.569 abstain=0.477
+p=20.0 delta=20.0: BA=0.530 macroF1=0.499 P=0.559 R=0.483 abstain=0.477
+p=25.0 delta= 5.0: BA=0.568 macroF1=0.681 P=0.562 R=0.945 abstain=0.477
+p=25.0 delta=10.0: BA=0.572 macroF1=0.668 P=0.575 R=0.840 abstain=0.477
+p=25.0 delta=15.0: BA=0.537 macroF1=0.594 P=0.565 R=0.656 abstain=0.477
+p=25.0 delta=20.0: BA=0.539 macroF1=0.533 P=0.570 R=0.539 abstain=0.477
+baseline: always-incorrect macro-F1 = 0.594, balanced accuracy = 0.500 (any constant predictor)
+
+SELECTED (dev CV only): p = 15.0  delta = 5.0  macroF1 = 0.660
+
+reference ranges derived: 170 (asana, class, angle) bands of 270 possible; median width by angle (deg):
+angle
+left_elbow            53.0
+left_hip              61.0
+left_knee             69.0
+left_shoulder         52.0
+right_elbow           48.0
+right_hip             62.0
+right_knee            45.0
+right_shoulder        54.0
+shoulder_line_tilt    28.0
+trunk_tilt            22.0
+frozen_config.json written. The test split has not been touched.

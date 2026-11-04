@@ -1,0 +1,55 @@
+imgsz=320, usable images=8476  tau=0.5
+
+DETECTION rate / multi-person rate per asana x label
+                               n    det  multi
+asana                label                    
+Anantasana           Right   283  0.947  0.018
+                     Wrong   294  0.966  0.010
+Ardhakati Chakrasana Right   507  0.994  0.008
+                     Wrong   420  0.990  0.012
+Bhujangasana         Right   435  0.708  0.023
+                     Wrong   325  0.846  0.006
+Kati Chakrasana      Right   320  0.975  0.034
+                     Wrong   225  0.996  0.044
+Marjariasana         Right   845  0.998  0.011
+                     Wrong   748  0.951  0.016
+Parvatasana          Right  1375  0.809  0.007
+                     Wrong  1402  0.815  0.004
+Sarvangasana         Right    94  0.649  0.000
+Tadasana             Right   516  0.984  0.004
+                     Wrong   413  0.998  0.017
+Vajrasana            Right    65  1.000  0.031
+                     Wrong    86  0.942  0.000
+Viparita Karani      Right   123  0.260  0.008
+
+PER-KEYPOINT COVERAGE (conf>=tau), per asana (all usable images)
+                      nose  l_eye  r_eye  l_ear  r_ear  l_sho  r_sho  l_elb  r_elb  l_wri  r_wri  l_hip  r_hip  l_kne  r_kne  l_ank  r_ank
+asana                                                                                                                                     
+Anantasana            0.20   0.11   0.09   0.24   0.14   0.82   0.85   0.72   0.79   0.69   0.69   0.94   0.95   0.95   0.95   0.95   0.95
+Ardhakati Chakrasana  0.34   0.23   0.23   0.47   0.40   0.99   0.99   0.89   0.90   0.85   0.85   0.99   0.99   0.99   0.99   0.94   0.94
+Bhujangasana          0.21   0.14   0.16   0.40   0.42   0.75   0.75   0.67   0.69   0.58   0.55   0.76   0.76   0.75   0.75   0.73   0.72
+Kati Chakrasana       0.36   0.29   0.26   0.58   0.49   0.98   0.98   0.87   0.85   0.74   0.76   0.98   0.98   0.98   0.98   0.96   0.97
+Marjariasana          0.09   0.04   0.04   0.31   0.22   0.97   0.97   0.82   0.75   0.67   0.60   0.98   0.98   0.91   0.88   0.91   0.89
+Parvatasana           0.39   0.33   0.24   0.54   0.35   0.80   0.80   0.73   0.73   0.67   0.66   0.76   0.74   0.54   0.53   0.46   0.47
+Sarvangasana          0.30   0.27   0.13   0.23   0.06   0.62   0.61   0.46   0.43   0.35   0.34   0.64   0.64   0.63   0.63   0.62   0.63
+Tadasana              0.37   0.29   0.29   0.47   0.45   0.99   0.99   0.89   0.88   0.82   0.81   0.99   0.99   0.97   0.97   0.88   0.84
+Vajrasana             0.62   0.54   0.49   0.62   0.49   0.97   0.97   0.87   0.89   0.85   0.81   0.85   0.85   0.66   0.67   0.60   0.58
+Viparita Karani       0.07   0.03   0.03   0.01   0.00   0.20   0.19   0.11   0.11   0.11   0.06   0.22   0.22   0.24   0.24   0.25   0.24
+
+JOINT-CHAIN COVERAGE: all constituent keypoints >= tau
+                      L_arm(sho,elb,wri)  R_arm  L_leg(hip,kne,ank)  R_leg  trunk(sho+hip x4)
+asana                                                                                        
+Anantasana                          0.63   0.66                0.94   0.94               0.81
+Ardhakati Chakrasana                0.83   0.85                0.94   0.94               0.99
+Bhujangasana                        0.58   0.55                0.72   0.72               0.75
+Kati Chakrasana                     0.74   0.76                0.96   0.97               0.98
+Marjariasana                        0.67   0.60                0.89   0.85               0.97
+Parvatasana                         0.65   0.65                0.45   0.45               0.72
+Sarvangasana                        0.33   0.30                0.60   0.62               0.60
+Tadasana                            0.82   0.80                0.87   0.83               0.99
+Vajrasana                           0.81   0.80                0.59   0.57               0.82
+Viparita Karani                     0.07   0.04                0.22   0.21               0.17
+
+overall chain coverage: {'L_arm(sho,elb,wri)': 0.684, 'R_arm': 0.666, 'L_leg(hip,kne,ank)': 0.723, 'R_leg': 0.712, 'trunk(sho+hip x4)': 0.844}
+
+320 vs 640 on 400 sample images: detection agree=0.935 | det@320=0.855 det@640=0.885 | median kpt disagreement (px, conf>=tau in both)=4.11, p95=37.13
